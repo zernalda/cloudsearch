@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>26BD8A44-B29E-4BC5-8B80-EA02DC1E14D4</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>26BD8A44-B29E-4BC5-8B80-EA02DC1E14D4.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>alviss project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>alviss</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project alviss with scheme alviss and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>578848608.66318595</real>
+			<key>timeStoppedRecording</key>
+			<real>578848612.76714206</real>
+			<key>title</key>
+			<string>Building project alviss with scheme alviss and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>26BD8A44-B29E-4BC5-8B80-EA02DC1E14D4</string>
+		</dict>
+		<key>A1199011-31A1-49B3-9976-738E06D2451F</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A1199011-31A1-49B3-9976-738E06D2451F.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>alviss project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>alviss</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project alviss with scheme alviss and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>578845642.93810201</real>
+			<key>timeStoppedRecording</key>
+			<real>578846055.22801006</real>
+			<key>title</key>
+			<string>Building project alviss with scheme alviss and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>A1199011-31A1-49B3-9976-738E06D2451F</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

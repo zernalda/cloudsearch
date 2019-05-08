@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/zernalda/development/alviss/alviss/node_modules/react-native/React/Base/RCTBridge.m \
+  /Users/zernalda/development/alviss/alviss/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/zernalda/development/alviss/alviss/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/zernalda/development/alviss/alviss/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/zernalda/development/alviss/alviss/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/zernalda/development/alviss/alviss/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/zernalda/development/alviss/alviss/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/zernalda/development/alviss/alviss/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/zernalda/development/alviss/alviss/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/zernalda/development/alviss/alviss/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/zernalda/development/alviss/alviss/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/zernalda/development/alviss/alviss/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/zernalda/development/alviss/alviss/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/zernalda/development/alviss/alviss/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/zernalda/development/alviss/alviss/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/zernalda/development/alviss/alviss/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/zernalda/development/alviss/alviss/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/zernalda/development/alviss/alviss/ios/build/alviss/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/zernalda/development/alviss/alviss/ios/build/alviss/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/zernalda/development/alviss/alviss/ios/build/alviss/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/zernalda/development/alviss/alviss/ios/build/alviss/Build/Products/Debug-iphonesimulator/include/yoga/YGValue.h \
+  /Users/zernalda/development/alviss/alviss/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/zernalda/development/alviss/alviss/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/zernalda/development/alviss/alviss/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h \
+  /Users/zernalda/development/alviss/alviss/node_modules/react-native/React/Base/RCTModuleData.h \
+  /Users/zernalda/development/alviss/alviss/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/zernalda/development/alviss/alviss/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/zernalda/development/alviss/alviss/node_modules/react-native/React/Base/RCTReloadCommand.h
